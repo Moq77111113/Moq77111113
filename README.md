@@ -7,11 +7,17 @@ I'm a Full Stack Developer based in France 🇫🇷
 
 <br />
 
-### 💻 Fav Stack
+### 💻 &nbsp;&nbsp; Fav Stack
 <br />
 
-![Env](https://skillicons.dev/icons?i=nodejs,ts&theme=light) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![FrontEnd](https://skillicons.dev/icons?i=svelte,tailwind&theme=dark)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![Backend](https://skillicons.dev/icons?i=adonis,jest&theme=dark) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![Dbs](https://skillicons.dev/icons?i=prisma,postgres&theme=light)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![CICD1](https://skillicons.dev/icons?i=github,vercel&theme=dark)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![CICD2](https://skillicons.dev/icons?i=docker,k8s&theme=light)
+![Skills Col1](https://skillicons.dev/icons?i=nodejs,ts,adonis,jest,github,vercel&theme=dark&perline=2)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+![Skills Col2](https://skillicons.dev/icons?i=svelte,tailwind,prisma,postgres,docker,k8s&theme=dark&perline=2)
 
+<br />
+
+
+### Socials
 <br />
 
 [![web](https://img.shields.io/badge/visit_my_webiste-f5f5f5?style=for-the-badge&logo=netlify&logoColor=000000)](https://quentinmoessner.netlify.app) 
